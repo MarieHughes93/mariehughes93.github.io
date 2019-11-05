@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "This weird thing called software engenering: A bout me and how I got here."
-date:       2019-11-05 13:35:42 +0000
+title:      "This weird thing called software engenering: About me and how I got here."
+date:       2019-11-05 08:35:43 -0500
 permalink:  this_weird_thing_called_software_engenering_a_bout_me_and_how_i_got_here
 ---
 
