@@ -1,14 +1,14 @@
 # Site settings
-author: Cho Hughes
+author: Marie Hughes
 title: Navigating The Confusing, But Fun, Road Of Software Engineering
 header-img: img/home-bg.png
-email: kchohee0630@gmail.com
-copyright_name: Cho Hughes
+email: contact@mariehughes.net
+copyright_name: Marie Hughes
 description: > # this means to ignore newlines until "baseurl:"
   My Endeavor To Survive This Crazy Thing Called Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  kchohee
+github_username:  mariehughes93
 
 # Build settings
 markdown: kramdown
